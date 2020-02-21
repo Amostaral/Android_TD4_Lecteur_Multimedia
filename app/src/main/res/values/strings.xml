@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TD4_Lecteur_Multimedia</string>
+    <string name="main_activity_name">TD4/TP4</string>
+    <string name="lecteur_multimedia">Lecteur Multimédia</string>
+    <string name="audio">Audio</string>
+    <string name="video">Vidéo</string>
+
+    <string name="audio_activity_name">Lecteur Audio</string>
+    <string name="video_activity_name">Lecteur Vidéo</string>
+    <string name="quitter">quitter</string>
+
+    <string-array name="audio_files">
+        <item>Tchaikovsky</item>
+        <item>Wagner</item>
+    </string-array>
+
+    <string-array name="video_files">
+        <item>Aeon-Flux</item>
+        <item>Pixar</item>
+    </string-array>
+
+    <string name="key_ressource_localisation">KEY_RESSOURCE_LOCALISATION</string>
+
+    <string name="ressource_locale">LOCALE</string>
+    <string name="ressource_distante">DISTANTE</string>
+
+    <string name="key_ressource_path">KEY_RESSOURCE_PATH</string>
+</resources>

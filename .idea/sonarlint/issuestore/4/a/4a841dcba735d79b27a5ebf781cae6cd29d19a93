@@ -1,0 +1,5 @@
+
+Isquid:S1075-"&Remove this hard-coded path-delimiter.(Éæç•ıÿÿÿÿ8ÉàîÍƒ.
+asquid:UselessImportCheck"6Remove this unused import 'android.media.MediaPlayer'.(İã¦8ƒŠîÍƒ.
+_squid:UselessImportCheck"4Remove this unused import 'android.util.TypedValue'.(é¸Óû8©÷íÍƒ.
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(£“Æµúÿÿÿÿ
